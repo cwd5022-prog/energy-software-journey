@@ -17,7 +17,7 @@
 
 ## 📚 학습 중
 
-- Python\*: pandas, requests
+- Python: pandas, requests
 - Neo4j: 그래프 DB
 - Domain: 탄소배출 도메인 지식
 
